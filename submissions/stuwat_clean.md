@@ -1,4 +1,4 @@
-# College Group Organizer
+# Stuwat_clean College Group Organizer
 
 ##  attendee
 
